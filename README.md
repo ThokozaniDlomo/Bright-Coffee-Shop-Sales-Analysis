@@ -15,5 +15,5 @@ This project contains the sales analysis to extract actionable insights from his
 - How to visualize insights in Microsoft Excel (Pivot Tables).
 
 
-# sales-performance-analysis
+# Note:
 This repo contains a beginner-friendly sales analysis project done in SQL (Databrics) and Microsoft Excel (Pivot Tables).
