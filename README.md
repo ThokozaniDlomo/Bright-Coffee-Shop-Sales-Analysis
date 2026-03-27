@@ -2,6 +2,8 @@
 
 
 ## 🛠 Tools Used
+- Miro (Project planning)
+- Canva (Project planning and Presentation)
 - SQL (Databricks)
 - Microsoft Excel (Pivot Tables)
 
@@ -13,7 +15,6 @@ This project contains the sales analysis to extract actionable insights from his
 ## 💡 What I Learned
 - How to perform Exploratory Data Analysis (EDA) using SQL (Databricks).
 - How to visualize insights in Microsoft Excel (Pivot Tables).
+- Project planning and management.
 
 
-# Note:
-This repo contains a beginner-friendly sales analysis project done in SQL (Databricks) and Microsoft Excel (Pivot Tables).
