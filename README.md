@@ -1,15 +1,14 @@
 # 📊 Bright-Coffee-Shop-Sales-Analysis
 
+## 📈 Project Overview
+This project contains the sales analysis to extract actionable insights from historical data to grow the company’s revenue and improve product performance. 
+
 
 ## 🛠 Tools Used
 - Miro (Project planning)
 - Canva (Project planning and Presentation)
 - SQL (Databricks)
 - Microsoft Excel (Pivot Tables)
-
-
-## 📈 Project Overview
-This project contains the sales analysis to extract actionable insights from historical data to grow the company’s revenue and improve product performance. 
 
 
 ## 💡 What I Learned
