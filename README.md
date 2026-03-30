@@ -17,14 +17,14 @@ The objective of the business it to grow the company’s revenue and improve pro
 - Analyse best practices at Hell's Kitchen thus apply across store locations.
 - Use Bakery and Drinking Chocolate as add-on and bundled products.
 
-## 🛠 Tools Used
+## Tools Used
 - Miro (Project planning)
 - Canva (Project planning and Presentation)
 - SQL (Databricks)
 - Microsoft Excel (Pivot Tables)
 
 
-## 💡 What I Learned
+## What I Learned
 - How to perform Exploratory Data Analysis (EDA) using SQL (Databricks).
 - How to visualize insights in Microsoft Excel (Pivot Tables).
 - Project planning and management.
