@@ -1,7 +1,7 @@
 # Bright-Coffee-Shop-Sales-Analysis
 
 ## Project Overview
-This project contains the sales analysis to extract actionable insights from historical data to grow the company’s revenue and improve product performance. 
+This project analyses historical sales data from Bright Coffee Shop to identify revenue drivers, sales trends, peak trading periods, and performance across products, time of day, and store locations, with the goal of delivering clear insights and data‑driven recommendations to support the CEO’s decisions on revenue growth and operational optimisation. 
 
 ## Objective and Questions to answer
 The objective of the business it to grow the company’s revenue and improve product performance.
