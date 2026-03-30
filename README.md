@@ -1,11 +1,21 @@
-# 📊 Bright-Coffee-Shop-Sales-Analysis
+# Bright-Coffee-Shop-Sales-Analysis
 
-## 📈 Project Overview
+## Project Overview
 This project contains the sales analysis to extract actionable insights from historical data to grow the company’s revenue and improve product performance. 
 
-## 📈<img width="512" height="512" alt="5465607" src="https://github.com/user-attachments/assets/6591fdcf-ba31-451e-ba28-8f4556ec82d4" />
-Project Overview
-This project contains the sales analysis to extract actionable insights from historical data to grow the company’s revenue and improve product performance.
+## Objective and Questions to answer
+The objective of the business it to grow the company’s revenue and improve product performance.
+
+- Which products generate the most revenue?
+- What time of day the store performs best?
+- Sales trends across products and time intervals?
+- Recommendations for improving sales performance?
+
+## Recommendations
+- Optimise on morning sales, as they show the core revenue generation.
+- Double down on Coffee and Tea as strategic categories.
+- Analyse best practices at Hell's Kitchen thus apply across store locations.
+- Use Bakery and Drinking Chocolate as add-on and bundled products.
 
 ## 🛠 Tools Used
 - Miro (Project planning)
