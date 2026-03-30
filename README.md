@@ -27,6 +27,7 @@ The objective of the business it to grow the company’s revenue and improve pro
 ## What I Learned
 - How to perform Exploratory Data Analysis (EDA) using SQL (Databricks).
 - How to visualize insights in Microsoft Excel (Pivot Tables).
-- Project planning and management.
+- How to do project planning and management.
+- How to presentat final project analysis to stakeholders.
 
 
